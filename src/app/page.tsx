@@ -46,8 +46,8 @@ export default function Home() {
         {/* nav bar starts here */}
 
         <div className="  bg-black md:bg-white w-full h-[60px] md:flex justify-around items-center  ">
-          <div className="">
-            <img src="./logo.png" alt="logo" />
+          <div className="font-bold text-3xl f">
+            .3legant
           </div>
           <div>
             <nav>
