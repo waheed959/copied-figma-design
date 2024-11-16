@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+  
+}
+
+.custom-arrow {
+    font-size: 20px;
+    letter-spacing: -3px; /* Reduce spacing between the arrows */
+    color: white;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  
+  
